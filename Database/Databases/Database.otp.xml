@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OtpInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Type>OATH HOTP / RFC 4226</Type>
+	<Version>2.0</Version>
+	<Generator>OtpKeyProv KeePass Plugin</Generator>
+	<EncryptedSecrets>
+		<EncryptedData>
+			<CipherText>s20://g7RQSU7ZPmbt1A==</CipherText>
+			<IV>SaI8vst/eTG5zJjETSvGng==</IV>
+			<TransformationKey>BsyfxUscrGgnOin9k61SLwctac6RIM2uY4cndoOuT+Q=</TransformationKey>
+			<TransformationRounds>10000</TransformationRounds>
+			<PlainTextHash>hQxtDfrbOtsmb8JYWFtFHnsRlSkciJ4It5xnmoCQqn4=</PlainTextHash>
+			<PlainTextHashTransformationKey>JAhH6bEENr84TTiIhUXSZ00I8s3FZCc/hrF3NL32b/A=</PlainTextHashTransformationKey>
+			<PlainTextHashTransformationRounds>10000</PlainTextHashTransformationRounds>
+		</EncryptedData>
+	</EncryptedSecrets>
+	<Counter>0</Counter>
+	<OtpLength>6</OtpLength>
+	<OtpsRequired>4</OtpsRequired>
+	<LookAheadCount>0</LookAheadCount>
+</OtpInfo>
